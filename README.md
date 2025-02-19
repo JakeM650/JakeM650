@@ -1,6 +1,6 @@
 # Jacob Martin
 
-### Currently Working On:
+### Currently Growing By:
 - Learning Python through personal projects.
 - Learning SQL to build efficient qurries for business applications.
 
