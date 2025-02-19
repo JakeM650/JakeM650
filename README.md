@@ -1,14 +1,14 @@
 # Jacob Martin
 
-### Currently Growing By:
+### 📈 Currently Growing By:
 - Learning Python through personal projects.
 - Learning SQL to build efficient qurries for business applications.
 
-### Studying:
+### 📓 Studying:
 - Finance
 - Economics
 
-### Active Project(s):
+### 🚧 Active Project(s):
 - [myboards.net](https://myboards.net) - QR Code Generator for SFSU Student Organizations
 
 Reach out to me on LinkedIn: [/in/jacobmartin01](https://www.linkedin.com/in/jacobmartin01/)
