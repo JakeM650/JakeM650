@@ -1,14 +1,16 @@
 # Jacob Martin
 
-### Currently Growing By:
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src = "https://img.shields.io/badge/CSS-A020F0?style=for-the-badge&logo=css&logoColor=white"><img src = "https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"><img src = "https://img.shields.io/badge/Markdown-808080?style=for-the-badge&logo=markdown&logoColor=white">
+
+### 📈 Currently Growing By:
 - Learning Python through personal projects.
 - Learning SQL to build efficient qurries for business applications.
 
-### Studying:
+### 📓 Studying:
 - Finance
 - Economics
 
-### Active Project(s):
+### 🚧 Active Project(s):
 - [myboards.net](https://myboards.net) - QR Code Generator for SFSU Student Organizations
 
 Reach out to me on LinkedIn: [/in/jacobmartin01](https://www.linkedin.com/in/jacobmartin01/)
