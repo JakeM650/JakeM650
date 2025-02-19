@@ -2,11 +2,14 @@
 
 ### Currently Working On:
 - Learning Python through personal projects.
-- Learning SQL and building efficient qurries for business applications.
+- Learning SQL to build efficient qurries for business applications.
 
 ### Studying:
 - Finance
 - Economics
+
+### Active Project(s):
+- [myboards.net](https://myboards.net) - QR Code Generator for SFSU Student Organizations
 
 Reach out to me on LinkedIn: [/in/jacobmartin01](https://www.linkedin.com/in/jacobmartin01/)
 <!--
