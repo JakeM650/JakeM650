@@ -1,5 +1,14 @@
-## Hi there 👋
+# Jacob Martin
 
+### Currently Working On:
+- Learning Python through personal projects.
+- Learning SQL and building efficient qurries for business applications.
+
+### Studying:
+- Finance
+- Economics
+
+Reach out to me on LinkedIn: [/in/jacobmartin01](https://www.linkedin.com/in/jacobmartin01/)
 <!--
 **JakeM650/JakeM650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
