@@ -11,7 +11,7 @@
 - Economics
 
 ### 🚧 Active Project(s):
-- [myboards.net](https://myboards.net) - QR Code Generator for SFSU Student Organizations
+- [qrbuddy.net](https://qrbuddy.net) - QR Code Generator for SFSU Student Organizations
 
 Reach out to me on LinkedIn: [/in/jacobmartin01](https://www.linkedin.com/in/jacobmartin01/)
 <!--
