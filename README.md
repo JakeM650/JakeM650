@@ -13,7 +13,6 @@
 ### 🚧 Active Project(s):
 - [qrbuddy.net](https://qrbuddy.net) - QR Code Generator for SFSU Student Organizations
 
-Reach out to me on LinkedIn: [/in/jacobmartin01](https://www.linkedin.com/in/jacobmartin01/)
 <!--
 **JakeM650/JakeM650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
